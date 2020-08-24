@@ -1,0 +1,88 @@
+Aug 18,2020
+-----------
+Machine - 1
+================
+POS - Furniture Store
+POS - Retail
+POS - Wholesale
+POS - Cellphone & Electronics
+=======================
+Feature(Module):
+--------
+1.Sales
+2.Purchase
+3.Inventory
+4.Layaway
+5.Accounting- Income & Expenses
+6.Billpay
+7.Repair
+---------Common Feature--------------------
+8. Barcode generate
+9. SMS/EMail Alert
+10. Card processing
+11. Card Scan
+12. Barcode scan with cellphone
+13. User Registration,Login, Forgot&Reset PW
+14. User Account Access Control
+15. Session Management
+16. Dashboard & Chart
+17. Responsive Cloud App
+18. Integretion with E-Comm. Site/Social media
+19. Competitive Price
+20. Strong Support 
+21. Security
+-------------------------------
+Tech:
+----
+1. Database - SQL Server
+2. Web API EF
+3. Angular
+4. Mobile Apps - Anglar
+5. AWS
+--------------------------------
+
+Target => 1000 user  1000*$49 = $49,000/mo
+
+Expn.
+-----
+
+1. Add Online
+2. Tele Marketing team
+3. Online Support Team
+
+===============================================
+
+Step-1 
+--------
+Common Feature Development
+---------------------------
+API/Services, Entity/Data Model
+================================
+2. User Registration 
+3. Login/ External logIn Feature
+3. Forgot Password
+4. Reset Password
+5. User Account***
+6. Billing
+7. Access Control
+8. Reminder
+9. Send Email
+10. Send SMS
+11. Dashboard
+--------------------
+UI Development
+--------------------
+1. Home Page
+2. Menu
+3. Dashboard
+4. User Reg., LogIn, Forgot & Reset
+5. User Ac. View & Control
+----------------------
+Report Generate(Pdf)
+----------------------- 
+
+Issues
+===========
+1. how to user REST API/SOAP Services in Java/Android/iOS
+2. EF => MongoDB/Oracle/SQ Light(Mobile DB)
+----------------------------------------------------
